@@ -1,4 +1,4 @@
-FROM ghcr.io/quirrel-dev/quirrel:main
+FROM ghcr.io/quirrel-dev/quirrel:1.9.2
 
 ENV DISABLE_TELEMETRY true
 ENV ENABLE_SSRF_PREVENTION true
